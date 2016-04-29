@@ -1,0 +1,6 @@
+{
+  "name": "Senior Project Blog",
+  "tagline": "",
+  "body": "# Senior Project Blog\r\n### by Shannon Shih and Elena Ariza\r\n\r\n### April 28, 2016\r\nWe experimented with coding Swift in XCode and learned out how use Github to share files between us. We also figured out the basic appearance and behavior of the game. \r\n\r\nTo start off, we created simple graphics to be used in the game and figured out how to integrate it with our code. We also looked at tutorials such as [Swiftris](https://www.bloc.io/tutorials/swiftris-build-your-first-ios-game-with-swift#!/chapters/682) and [other](http://code.tutsplus.com/tutorials/create-space-invaders-with-swift-and-sprite-kit-introducing-sprite-kit--cms-23341) guides to help us figure out how to code and Swift. At the end of the day, we managed to get our app working and display one of the images we created using Adobe Illustrator: \r\n\r\n<img src=\"./images/day-1-image.png\" height=500/>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
